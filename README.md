@@ -24,7 +24,7 @@ Developers won't write documentation manually. But they'll click "confirm" on an
 
 ```bash
 # Clone and copy to your project
-git clone https://github.com/mixsoft/project-memory.git
+git clone https://github.com/mixsoft-ai/project-memory.git
 cp -r project-memory/template/* your-project/
 
 # Or use the init script
@@ -73,7 +73,7 @@ Project Memory works with ANY AI coding tool:
 
 | Tool | Integration |
 |------|-------------|
-| Claude Code | [project-memory-plugin](https://github.com/mixsoft/project-memory-plugin) |
+| Claude Code | [project-memory-plugin](https://github.com/mixsoft-ai/project-memory-plugin) |
 | Cursor | `.cursorrules` + docs/ |
 | GitHub Copilot | AGENTS.md + docs/ |
 | Windsurf | AGENTS.md + docs/ |
@@ -130,7 +130,7 @@ For enhanced automation (slash commands, skills, hooks), install the companion p
 /plugin install project-memory@mixsoft
 ```
 
-See [project-memory-plugin](https://github.com/mixsoft/project-memory-plugin).
+See [project-memory-plugin](https://github.com/mixsoft-ai/project-memory-plugin).
 
 ## Contributing
 

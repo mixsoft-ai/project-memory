@@ -4,7 +4,7 @@
 
 > *AI drafts. You confirm. Knowledge compounds.*
 
-See the full guide at: https://github.com/mixsoft/project-memory
+See the full guide at: https://github.com/mixsoft-ai/project-memory
 
 ## Quick Reference
 
